@@ -14,7 +14,7 @@ I'm [YOUR NAME], a passionate Web/Mobile developer. I love working with JavaScri
 ## 📊 GitHub Stats
 
 ![Your stats](https://your-vercel-deployment-url/api?username=ApostolisNt&show_icons=true&theme=github_dark_dimmed)
-![Top Langs](https://your-vercel-deployment-url/api/top-langs/?username=ApostolisNt&layout=compact&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolisNt&layout=compact&theme=github_dark_dimmed)
 
 ## 🎨 Programming & Me
 
