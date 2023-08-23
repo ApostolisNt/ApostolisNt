@@ -26,12 +26,6 @@ I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with Ja
   </td>
   </tr>
 </table>
----
-Feel free to connect with me here:
-👔 [LinkedIn](https://www.linkedin.com/in/apostolos-ntaskas-826444154/)
-
-
-
 <!--
 **ApostolisNt/ApostolisNt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
