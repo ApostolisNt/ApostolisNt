@@ -15,7 +15,7 @@ I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with Ja
 
 ## 🎨 Programming & Me
 Programming for me is like:
-![GIF showing a coder](URL_TO_A_GIF)
+![GIF showing a coder]((https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))
 ![Another GIF that describes coding](URL_TO_ANOTHER_GIF)
 ---
 Feel free to connect with me here:
