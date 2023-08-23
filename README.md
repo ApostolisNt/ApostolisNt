@@ -5,7 +5,8 @@ I'm [YOUR NAME], a passionate Web/Mobile developer. I love working with JavaScri
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- **React**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![](https://img.shields.io/badge/Code-React-blue?style=flat-square&logo=react)
 ![](https://img.shields.io/badge/Code-Java-red?style=flat-square&logo=java)
 ![](https://img.shields.io/badge/Code-HTML-orange?style=flat-square&logo=html5)
