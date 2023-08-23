@@ -20,7 +20,7 @@ I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with Ja
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolisNt&layout=compact&theme=github_dark_dimmed" alt="Top Langs" width="300">
 </td>
 <td valign="top" width="100%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="GIF showing a coder">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="450" alt="GIF showing a coder">
   </td>
   </tr>
 </table>
