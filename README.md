@@ -2,25 +2,28 @@
 
 I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with JavaScript, React, HTML, and CSS.
 - 🔭 I’m currently working on GAME OVER Escape Rooms
-<div style="display:flex">
-  
-  <div>
-## 📊 GitHub Stats
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-### 🛠️ Languages and Tools:
+  <div style="flex: 1; padding-right: 20px;">
+    ## 📊 GitHub Stats
+
+  ## 🛠️ Languages and Tools:
   <p>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40"></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40"></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"></a>
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"></a>
-  </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolisNt&layout=compact&theme=github_dark_dimmed" alt="Top Langs" width="260">
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"></a>
+        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"></a>
+    </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolisNt&layout=compact&theme=github_dark_dimmed" alt="Top Langs" width="260">
   </div>
-  <div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="GIF showing a coder">
+
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="GIF showing a coder">
   </div>
+  
 </div>
+
 
 ---
 
