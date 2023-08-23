@@ -6,8 +6,8 @@ I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with Ja
 
 
 ## 📊 GitHub Stats
-<p align="center" display="flex">
-  <div>
+<p align="center" >
+  <div display="flex">
   ## 🛠️ Languages and Tools:
   <p>
     <a href="#"><img src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=5&origin=search&related_id=5968292" alt="JavaScript" width="40"></a>
