@@ -17,7 +17,7 @@ I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with Ja
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"></a>
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolisNt&layout=compact&theme=github_dark_dimmed" alt="Top Langs" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolisNt&layout=compact&theme=github_dark_dimmed" alt="Top Langs" width="200">
 </td>
 <td valign="top" width="40%">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="GIF showing a coder">
