@@ -6,7 +6,7 @@ I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with Ja
 
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="center" display="flex">
   <div>
   ## 🛠️ Languages and Tools:
   <p>
