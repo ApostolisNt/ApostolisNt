@@ -5,7 +5,7 @@ I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with Ja
 
 ## 📊 GitHub Stats
 <p align="space between">
-  <a href="#"><img src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=5&origin=search&related_id=5968292" alt="JavaScript"></a>
+  <img src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=5&origin=search&related_id=5968292" alt="JavaScript">
   <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=black" alt="React"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=black" alt="Java"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" alt="HTML5"></a>
