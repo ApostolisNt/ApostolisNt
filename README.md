@@ -3,10 +3,6 @@
 I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with JavaScript, React, HTML, and CSS.
 - 🔭 I’m currently working on GAME OVER Escape Rooms
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
 ## 📊 GitHub Stats
 
 ### 🛠️ Languages and Tools:
@@ -18,15 +14,7 @@ I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with Ja
     <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" alt="CSS3"></a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolisNt&layout=compact&theme=github_dark_dimmed" alt="Top Langs" width="400">
-
-    </td>
-    <td valign="top" width="40%">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="GIF showing a coder">
-
-    </td>
-  </tr>
-</table>
 
 ---
 
