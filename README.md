@@ -1,5 +1,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolisNt&layout=compact&theme=github_dark_dimmed)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApostolisNt&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on GAME OVER Escape Rooms
 <!--
