@@ -2,7 +2,7 @@
 
 I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with JavaScript, React, HTML, and CSS.
 - 🔭 I’m currently working on GAME OVER Escape Rooms
-<div>
+<div style="display:flex">
   
   <div>
 ## 📊 GitHub Stats
