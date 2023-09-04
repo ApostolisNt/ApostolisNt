@@ -3,7 +3,6 @@
 I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with JavaScript, React, HTML, and CSS.
 - 🔭 I’m currently working on GAME OVER Escape Rooms
 <table width="100%">
-  <tr>
     <td valign="top">
 
 ## 📊 GitHub Stats
@@ -24,7 +23,6 @@ I'm Apostolis Ntaskas, a passionate Web/Mobile developer. I love working with Ja
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="GIF showing a coder">
 
   </td>
-  </tr>
 </table>
 <!--
 **ApostolisNt/ApostolisNt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
